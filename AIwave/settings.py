@@ -67,7 +67,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'AIwave.wsgi.application'
+WSGI_APPLICATION = 'api.wsgi.app'
 
 
 # Database
